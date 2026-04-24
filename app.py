@@ -214,7 +214,6 @@ SUGGESTED_QUESTIONS = [
     "What are your hobbies?",
     "What is your email?",
     "What is your education?",
-   
 ]
 
 
@@ -250,7 +249,8 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown("""
+st.markdown(
+    """
 <div style="
     background: rgba(255,193,7,0.08);
     border: 1px solid rgba(255,193,7,0.3);
@@ -264,7 +264,9 @@ st.markdown("""
     ⚠️ <strong>Disclaimer:</strong> I have been working on new projects and upskilling continuously — some information retrieved here may not reflect my latest experience. 
     I'd love to <strong>chat with you directly</strong> to discuss my skills and achievements in detail!
 </div>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)
 
 # Init state
 if "messages" not in st.session_state:
@@ -281,13 +283,17 @@ for msg in st.session_state.messages:
     render_message(msg["role"], msg["content"])
 
 # Suggestion chips (show only when no real conversation yet)
-if len(st.session_state.messages) <= 1:
-    # Clickable buttons for suggestions
-    cols = st.columns(3)
+
+with st.sidebar:
+    st.markdown("### 💡 Suggested Questions")
+    st.markdown("---")
     for i, q in enumerate(SUGGESTED_QUESTIONS):
-        if cols[i % 3].button(q, key=f"chip_{i}", use_container_width=True):
+        if st.button(q, key=f"chip_{i}", use_container_width=True):
             st.session_state.pending_question = q
             st.rerun()
+
+# Clickable buttons for suggestions
+
 
 st.markdown("---")
 
