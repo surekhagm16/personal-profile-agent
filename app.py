@@ -269,7 +269,7 @@ st.markdown(
     line-height: 1.6;
 ">
     ⚠️ <strong>Disclaimer:</strong> I have been working on new projects and upskilling continuously — some information retrieved here may not reflect my latest experience. 
-    I'd love to <strong>chat with you directly</strong> to discuss my skills and achievements in detail! Model used might hallucinate on general info in some cases. 
+    I'd love to <strong>chat with you directly</strong> to discuss my skills and achievements in detail! Model might hallucinate on general queries. 
 </div>
 """,
     unsafe_allow_html=True,
