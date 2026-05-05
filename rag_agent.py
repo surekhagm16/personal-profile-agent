@@ -18,7 +18,7 @@ from langchain_huggingface import (
     HuggingFaceEmbeddings,
     ChatHuggingFace,
 )
-from langchain_groq import ChatGroq
+
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langgraph.graph import StateGraph, END, START
@@ -69,8 +69,7 @@ def build_vectorstore(profile_path: str) -> FAISS:
 
 
 llm = HuggingFaceEndpoint(repo_id="Qwen/Qwen2.5-7B-Instruct", task="text-generation")
-model = ChatHuggingFace(llm=llm )
-#model = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.3)
+model = ChatHuggingFace(llm=llm)
 
 
 # ── Graph nodes ───────────────────────────────────────────────────────────────
