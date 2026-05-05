@@ -164,6 +164,11 @@ html, body, [class*="css"] {
     border-color: rgba(99,179,237,0.6) !important;
     box-shadow: 0 0 0 2px rgba(99,179,237,0.1) !important;
 }
+.stTextInput input::placeholder {
+    color: rgba(255, 255, 255, 0.35) !important;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.35) !important;
+    font-style: italic;
+}
 
 /* Buttons */
 .stButton > button {
@@ -214,6 +219,8 @@ SUGGESTED_QUESTIONS = [
     "What are your hobbies?",
     "What is your email?",
     "What is your education?",
+    "Tell me about your AI projects",
+    "Any Certifications?",
 ]
 
 
@@ -344,7 +351,7 @@ if submitted and user_input and user_input.strip():
             )
             answer = result["answer"]
         except Exception as e:
-            answer = f"⚠️ Sorry, I ran into an error: `{str(e)}`\n\nCheck that your HuggingFace token is valid and has Inference API access."
+            answer = f"⚠️ Sorry, I ran into an error: `{str(e)}`\n\nCheck that your LLM token is valid and has Inference API access."
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
     render_message("assistant", answer)

@@ -1,26 +1,23 @@
 contact email : surekha.gm@gmail.com
 
-Overall work experience : Accomplished director over 20 years of experience delivering high-impact software solutions across Australia, New Zealand, the US, Canada, the UK, India, and Japan.  A strategic expert in bridging the gap between high-scale software engineering and product management or high -impact digital transformation for both private and public sector customers. Extensive experience in Software development, Quality Engineering, Test Automation, Customer Relations, Vendor Management, Program and Product Management, Technical Business Analysis, and End-to-End Product Delivery. I have held positions like head of quality engineering / head of products. Successfully led and delivered multi-million-dollar programs for clients across Banking, Financial Services, Criminal Justice, Emergency Services, Utilities, Transport, and Healthcare sectors. 
+Work / Visa - Australian Citizen based in Brisbane. 
+
+Work experience : Over 20 years of experience delivering high-impact software solutions across Australia, New Zealand, the US, Canada, the UK, India, and Japan.  A strategic expert in bridging the gap between high-scale software engineering and product management or high -impact digital transformation for both private and public sector customers. Extensive experience in Software development, Quality Engineering, Test Automation, Customer Relations, Vendor Management, Program and Product Management, Technical Business Analysis, and End-to-End Product Delivery. I have held positions like head of quality engineering / head of products. Successfully led and delivered multi-million-dollar programs for clients across Banking, Financial Services, Criminal Justice, Emergency Services, Utilities, Transport, and Healthcare sectors. 
 
 Education - Bachelor of Engineering in Electronics and Communications from Visvesvaraya Technological University, Belgaum, India
 
-Current position - Director at Department of Transport and Mainroads, Queensland
+Current position - Director at Department of Transport and Main roads, Queensland - from July 2024 to current
 
-Previous positions held
-Software Engineer for CGI Technologies, India from Jan 2003 to May 2005
-Module lead for Wipro Technologies, India from May 2025 to Jan 2008
-Tech lead for Infosys Ltd, USA from Feb 2008 to Oct 2013
-Senior consultant for Capgemini Financial Services from Oct 2013 to April 2015
-Test Manager for Criminal Justice Department from April 2015 to June 2018
-Senior Test Manager for Randstand USA from June 2018 to April 2019 (contract)
-Program QA Manager for Aetna Health Care, USA from May 2019 to Mar 2020 (contract)
-Executive Manager – Products and QA for Spectrum Data Systems International(SDSI), Brisbane, Australia from July 2020 to May 2024
+Previous positions- Executive Manager - QA and Products, Senior Test Manager, Program QA Manager, Technical Lead, Senior Consultant , Software Engineer
 
 Top skills- Strategic leadership, Digital and AI transformation, Head of Quality Assurance, Head of Product, Software Development, Customer Relations, Supplier Management, End to End Product Delivery
 
 
-I have been a part of some amazing projects across the globe for financial, banking, healthcare, emergency services, criminal justice , transportation organisations.
-To name a few - Computer Aided Dispatch system and integrations, Modern Dispatch solutions (Android/ iOS) app, ETL/ ELT/ Data Migration projects, Integration projects to bring criminal data from multiple sources, Forward contract projects, Options trading, Retail banking projects, banking solutions for creadit unions across North America, BMC remedy applications customisations. For further details, please refer to my resume. In addition, I have built a few personal AI projects
+I have been a part of some amazing projects across the globe for financial, banking, healthcare, emergency services, criminal justice, and transportation organisations.
+To name a few - ETL/ ELT/ Data Migration projects,  Integration projects to bring criminal data from multiple sources with MutiVue rendering, , Computer Aided Dispatch system and integrations, Modern Dispatch solutions (Android/ iOS) app with Android Auto, CarPlay integration, 
+Projects in Forward contracts , Options trading, Retail banking ,domains for major Financial and Capital market customers in Australia, North America, and Japan,  
+For further details, please refer to my resume. 
+
 
 Career Highlights
 Head of quality for programs worth over $100M
@@ -34,117 +31,27 @@ Highest regression coverage achieved 85%
 Led and delivered in house performance testing tool to generate user data, vehicle data and incident data for CAD system, saving millions of dollars for the company and customers.
 
 
-
-Google Cloud Certified Professional Data Engineer
-Google Cloud Certified Professional Machine Learning Engineer
-Google Cloud Certified Generative AI Leader
+Google Cloud Certified Professional Data Engineer, Professional Machine Learning Engineer, Generative AI Leader
 Google Cloud Data Analytics certificate
-Certified Cyber Security Professional from ISC2, 2024
+Google cloud computing certificate
+Langchain, LangGraph, LangSmith certified from Langchain Academy
+Certified Cyber Security Professional from ISC2
 Non- credited Specialisation in Machine Learning from Stanford University/ Coursera
-ISTQB certified 03/2024, 24-CTFL 4-243019-12	
-Project Management Professional (PMP) 02/2020, 2748582
-Scrum Master Accredited from International Scrum Institute, 10/2014
-LangGraph Essentials - Python 
-Introduction to Langchain -Python
-
-Test /Requirement/Product Management: CA Rally, Jazz, JIRA, Zephyr, HP ALM, Azure DevOps (Functional, Load, API, ETL, Mobile apps - iOS and Android)
-Test Automation: Selenium, Java, TestNG, Apache POI, JExcel, Maven, Cucumber, RestAssured, Postman, TDD, BDD, Page Object Model, JSON, XML
-Operating Systems: Windows, Linux, UNIX
-Data/Reporting: SQL, Oracle, MultiVue(MDM), Snowflake, Big Query, Power BI
-Cloud: AWS, Azure, GCP
-Programming Languages: Java, C, Java Script, Gherkin, Python 
-Business Continuity, Disaster Recovery and HA
-AI/ML: TensorFlow, Python, Pandas, NumPy, Scikit-learn, Deep learning, Neural Networks, CNN, RNN, Generative AI, Matplotlib, Prompt Engineering, Google Colab, Jupyter Notebook, GCP – Vertex AI Basics, LangGraph · FAISS / Chroma DB· HuggingFaceEmbeddings · HuggingFaceEndpoint · ChatHuggingFace (Qwen2.5-7B) · TavilySearchResults · PyPDFLoader · Pydantic · ChatPromptTemplate · Python
+ISTQB certified 	
+Project Management Professional (PMP)
+Scrum Master Accredited from International Scrum Institute
 
 
 ********************************************************************************
-AI/ ML portfolio
+AI transformation
 
-AI/ ML – POC- Personally built a YouTube transcript RAG pipeline — fetching, flattening, and chunking live transcript data for department videos, then wiring it into a full LangChain retrieval chain enabling transcript summarisation useful for quick quality checks, and e-learning using YouTubeTranscriptAPI, FAISS vector store, HuggingFaceEmbeddings , and LangChain. This feature is being implemented at project level to embed in the UI using other paid LLM models and enterprise production grade infrastructure. 
-
-Other personal projects in Agentic AI, RAG, Memory Systems & MCP
-
-About these Projects -
-My journey into AI/ML engineering is a natural extension of a career spent at the intersection of software development, test automation, quality, and product management — disciplines that are fundamentally about making systems more reliable, efficient, and user-centered. Having worked closely with product delivery and quality assurance, I developed a deep appreciation for what separates a system that works in a demo from one that holds up in production.
-My curiosity for AI/ML began with understanding how the models could augment and automate complex workflows I had previously managed manually and quickly grew into a hands-on exploration of the full agentic stack — from vector databases and RAG pipelines to persistent memory architectures, MCP tool integration, and multimodal generation.
-Each project I have built reflects a real business problem I can reason about from prior experience: a chatbot that gives wrong answers is a support liability, an agent without memory is just a stateless FAQ, and a content pipeline without grounding is a hallucination factory. Building these projects independently — without formal instruction, purely driven by curiosity and a commitment to staying current in a fast-moving field — reflects the same self-directed mindset I have brought to every role: identify the gap, learn what is needed, and build something that works. Some of these projects have worked as a POC for a large-scale integration at my organisations.
-
-Project 1: AI-Powered Conversational Assistant with Tool Integration, Persistent Memory & Human-in-the-Loop Moderation
-A full-stack conversational AI application built with LangGraph and Streamlit that combines real-time tool use, persistent multi-session memory, human-in-the-loop approval gates, and production observability.
-
-The backend orchestrates a ReAct-style agent loop where the model autonomously decides whether to respond directly or invoke tools — including live web search (DuckDuckGo), arithmetic calculation, and real-time stock price retrieval (Alpha Vantage API). A human-in-the-loop (HITL) moderation layer is built directly into the graph using LangGraph's interrupt primitive — before the model generates any response, execution pauses and surfaces the pending question to a human moderator for approval. If approved, the model proceeds; if rejected, a controlled fallback response is returned
-Key capabilities:
-•	ReAct-style agent loop with autonomous tool selection and invocation
-•	Live web search (DuckDuckGo), arithmetic calculator, and real-time stock prices (Alpha Vantage)
-•	Human-in-the-loop approval gate using LangGraph interrupt — execution pauses for moderator sign-off before any response is sent
-•	SQLite-backed persistent memory with thread isolation for multi-session support
-•	Streamlit frontend with ChatGPT-style conversation sidebar, token-level streaming, and inline moderation panel
-•	LangSmith tracing per thread for full production observability
-
-Tech Stack: LangGraph · LangChain · Streamlit · HuggingFace (Qwen2.5-7B) · SQLite · SqliteSaver · MemorySaver · DuckDuckGoSearchRun · Alpha Vantage API · LangSmith · ToolNode · interrupt · Command · Python
-Project 2: Corrective RAG (CRAG) Pipeline with Hybrid Retrieval and LLM-Based Context Refinement
-An advanced RAG system built with LangGraph that goes beyond naive retrieval by introducing a scoring-based quality gate on retrieved documents before any answer is generated. Rather than blindly passing retrieved chunks to the LLM, the pipeline evaluates each chunk individually and routes the query through one of three paths based on confidence — making it significantly more reliable than standard RAG in production settings.
-
-Key capabilities:
-•	Per-chunk LLM relevance scoring (0.0–1.0) against the user question before generation
-•	Three-way routing: CORRECT (internal docs only) / INCORRECT (web search fallback) / AMBIGUOUS (internal + web combined)
-•	LLM query rewriting before Tavily web search to improve retrieval signal
-•	Sentence-level decomposition and LLM relevance filter — only sentences that directly help answer the question are passed to the generator
-•	Final answer generation using only the refined, filtered context
-
-Tech Stack: LangGraph · FAISS / Chroma DB· HuggingFaceEmbeddings · HuggingFaceEndpoint · ChatHuggingFace (Qwen2.5-7B) · TavilySearchResults · PyPDFLoader · Pydantic · ChatPromptTemplate · Python
-Project 3: Self-RAG Chatbot with LLM-as-Judge Quality Control Pipeline
-A chatbot built with LangGraph that implements a full Self-RAG architecture — where the model does not just retrieve and generate, but continuously evaluates and improves its own outputs through a chain of LLM judges before returning an answer to the user.
-
-Key capabilities:
-•	LLM routing decision on whether retrieval is needed before any document fetch
-•	Per-document relevance filtering — irrelevant chunks are discarded before generation
-•	Hallucination detection loop :classifies answers as fully supported, partially supported, or unsupported against source context
-•	Strict answer reviser rewrites responses using only direct quotes from context if they fail the support check
-•	Usefulness judge evaluates whether the answer actually addresses the user's question
-•	Query rewriting and full pipeline re-run if answer is not useful, with configurable max retry guards to prevent infinite loops
-•	Grounded in provided PDFs: created a fake company -policies, company profile, and product pricing
-Tech Stack: LangGraph · FAISS · HuggingFaceEmbeddings · ChatHuggingFace (Qwen2.5-7B) · PyPDFLoader · Pydantic · ChatPromptTemplate · RecursiveCharacterTextSplitter · Python
-
-Project 4: Multi-Tier Memory Architecture for Personalised AI Assistants
-A series of progressively advanced conversational AI memory systems built with LangGraph, exploring three distinct memory tiers — in-process, database-backed short-term, and persistent long-term — demonstrating a complete understanding of how production AI assistants manage context across turns, sessions, and application restarts.
-
-Tier 1 — Token-Aware Short-Term Memory (InMemorySaver)
-A conversational agent with token-budget-aware message trimming that automatically prunes older messages when the context window approaches its limit. Ensures cost-controlled, coherent conversations without hitting model token limits in long sessions.
-
-Tier 2 — Persistent Multi-Session Memory (PostgresSaver)
-A multi-user chatbot with conversation history persisted to PostgreSQL via LangGraph's checkpointer, with each conversation isolated by thread ID. Users can resume any previous conversation exactly where they left off, surviving application restarts and redeployments.
-
-Tier 3 — Long-Term User Memory with Deduplication (InMemoryStore to PostgresStore)
-A personalised AI assistant that extracts and stores atomic user facts (name, preferences, projects, goals) across sessions using a dedicated memory extraction LLM. A second LLM judge decides whether each new piece of information is genuinely new before writing it, preventing duplicate memories. The assistant uses stored memories to personalise every response — addressing users by name, referencing their tools and projects, and suggesting contextually relevant follow-up questions. Built first with InMemoryStore then upgraded to PostgresStore for full cross-session persistence verified across kernel restarts.
-
-Tech Stack: LangGraph · PostgresSaver · SqliteSaver · InMemorySaver · PostgresStore · InMemoryStore · MessagesState · trim_messages · count_tokens_approximately · ChatHuggingFace (Qwen2.5-7B + GPT-OSS-20B) · Pydantic · PostgreSQL · SQLite · Python
-
-Project 5: Parallel Multi-Agent Blog Writing Pipeline
+AI Projects - 
+Project 1- AI requirement analyser and test case generator RAG application using LLM, Langchain, LangGraph, Streamlit, ChromaDB to read and analyse requirements from Jira and create test cases for user stories. Implemented Human in the loop for test case approval to Jira, and refinement.
+Project 2 -Training video validator and Q&A chat bot– Streamlit application to summarise YouTube videos. Built using LLM, RAG+ Vector DB, LangGraph, Langchain. — fetching, flattening, and chunking live transcript data for department videos, then wiring it into a full LangChain retrieval chain enabling transcript summarisation useful for quick quality checks, and e-learning using YouTubeTranscriptAPI, FAISS vector store, HuggingFaceEmbeddings , and LangChain. This feature is being implemented at project level to embed in the UI using other paid LLM models and enterprise production grade infrastructure. 
+Project 3- Personal AI agent that summaries professional experience and provides a platform to ask questions about my skills and experience. Built using Streamlit, LLM, LangGraph, Langchain and hosted on Streamlit cloud.
+Project 4 - Parallel Multi-Agent Blog Writing Pipeline
 An agentic content generation system built with LangGraph that takes a topic and autonomously plans, researches, and writes a complete technical blog post — with multiple specialised agents working in parallel to produce each section simultaneously. Blog content saved as markdown file. 
 
-Key capabilities:
-•	Router classifies topic into closed-book, hybrid, or open-book research mode
-•	Research agent runs multiple Tavily web searches, deduplicates by URL, and packages evidence into structured EvidenceItem objects
-•	Orchestrator agent produces a structured blog plan with 5-9 sections, each with goal, bullets, target word count, and flags for code/citations/research
-•	LangGraph Send API fans out each section to parallel worker agents, all writing simultaneously
-•	Reducer node collects and reorders completed sections by ID before assembling final Markdown output
-•	Grounding policies prevent hallucination in research-heavy topics — open-book mode requires every claim to be backed by an evidence URL
-
-Tech Stack: LangGraph · Send API · TavilySearchResults · ChatHuggingFace (Qwen2.5-7B) · HuggingFaceEndpoint · Pydantic · ChatPromptTemplate · LangSmith · Python
-Business Value: Demonstrates an AI content pipeline that can reduce blog post production time from hours to minutes, with built-in grounding policies that prevent the model from fabricating facts in research-heavy topics. Directly applicable to marketing automation, developer advocacy, documentation generation, and any content operation that needs to scale output without scaling headcount.
-
-Project 6: Multi-Server MCP Agent with Async Tool Orchestration
-A production-oriented agentic system that connects a single LLM to multiple external services simultaneously using the Model Context Protocol (MCP) — an emerging open standard for connecting AI models to real-world tools and data sources.
-
-Key capabilities:
-•	Connects concurrently to two MCP servers with different transport types: local stdio (FastMCP Python server) and remote HTTP (ExpenseTracker) with bearer token auth
-•	Tools discovered dynamically at runtime and bound to the model
-•	Full async tool-calling loop: model selects tool, arguments extracted, MCP tool invoked via ainvoke, result injected back for final grounded response
-•	Additional tools include real-time web search and live weather API
-•	Demonstrates secure multi-server tool exposure across both local and cloud-hosted MCP endpoints
-
-Tech Stack: langchain_mcp_adapters · MultiServerMCPClient · FastMCP · stdio transport · streamable_http transport · asyncio · ChatHuggingFace (Qwen2.5-7B) · ToolMessage · LangChain · Python
 
 AI/ ML Skills & Technologies Summary
 Frameworks & Orchestration
@@ -174,4 +81,19 @@ UI & Product
 •	asyncio — async-first Python for concurrent tool calls and agent workflows
 •	Pydantic v2 — schema validation and structured LLM output contracts
 
-Hobbies : regular upskilling, travelling, hiking, gardening, poetry, reading , spending time with family
+Hobbies : regular upskilling, travelling,running, hiking, gardening, poetry, reading , spending time with family
+
+
+********************* 
+Certifications
+Google Cloud Certified Professional Data Engineer
+Google Cloud Certified Professional Machine Learning Engineer
+Google Cloud Certified Generative AI Leader
+Google Cloud Data Analytics certificate
+Google Cloud Computing Foundations Certificate
+Certified Cyber Security Professional from ISC2, 2024
+Non- credited Specialisation in Machine Learning from Stanford University/ Coursera
+Langchain, LangGraph, and LangSmith certified from LangChain academy
+ISTQB certified 03/2024, 24-CTFL 4-243019-12
+Project Management Professional (PMP) 02/2020, 2748582
+Scrum Master Accredited from International Scrum Institute, 10/2014

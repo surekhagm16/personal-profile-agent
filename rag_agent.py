@@ -18,6 +18,7 @@ from langchain_huggingface import (
     HuggingFaceEmbeddings,
     ChatHuggingFace,
 )
+from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langgraph.graph import StateGraph, END, START
@@ -44,6 +45,8 @@ class AgentState(TypedDict):
 # ── Build vector store ────────────────────────────────────────────────────────
 
 profile_path = os.path.join(os.path.dirname(__file__), "myprofile.txt")
+
+
 def build_vectorstore(profile_path: str) -> FAISS:
     """Load profile doc, split, embed, and return FAISS index."""
     loader = TextLoader(profile_path, encoding="utf-8")
@@ -57,7 +60,7 @@ def build_vectorstore(profile_path: str) -> FAISS:
     )
     chunks = splitter.split_documents(docs)
     len(chunks)
-    embeddings = HuggingFaceEmbeddings(model_kwargs ={"token" : hf_token})
+    embeddings = HuggingFaceEmbeddings(model_kwargs={"token": hf_token})
     vectorstore = FAISS.from_documents(chunks, embeddings)
     return vectorstore
 
@@ -67,8 +70,7 @@ def build_vectorstore(profile_path: str) -> FAISS:
 
 llm = HuggingFaceEndpoint(repo_id="Qwen/Qwen2.5-7B-Instruct", task="text-generation")
 model = ChatHuggingFace(llm=llm )
-
-
+#model = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.3)
 
 
 # ── Graph nodes ───────────────────────────────────────────────────────────────
@@ -79,20 +81,24 @@ If the context does not contain enough information to answer, say so politely.
 Keep answers concise, warm, and in first person when appropriate (as if {name} is speaking).
 """
 
-RAG_PROMPT = ChatPromptTemplate.from_messages([
-    ("system", SYSTEM_PERSONA + """
+RAG_PROMPT = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            SYSTEM_PERSONA
+            + """
 
 Context:
 {context}
 
 Chat History:
-{chat_history}"""),
-    ("human", "{question}")
-])
+{chat_history}""",
+        ),
+        ("human", "{question}"),
+    ]
+)
 
 PERSONA_NAME = "Surekha Madival"  # ← Replace with your name when you update the profile
-
-
 
 
 def generate_answer(state: AgentState) -> AgentState:
@@ -111,10 +117,10 @@ def generate_answer(state: AgentState) -> AgentState:
         chat_history=history_text or "None yet.",
         question=state["question"],
     )
-    
+
     response = model.invoke(formatted_prompt)
     answer = response.content
-    
+
     # Strip any prompt echo that some models return
     if "Answer:" in answer:
         answer = answer.split("Answer:")[-1].strip()
@@ -135,8 +141,6 @@ def build_graph(profile_path: str):
         docs = retriever.invoke(state["question"])
         return {"context": docs}
 
-
-
     graph = StateGraph(AgentState)
 
     graph.add_node("retrieve", retrieve)
@@ -147,5 +151,3 @@ def build_graph(profile_path: str):
     graph.add_edge("generate", END)
 
     return graph.compile()
-
-
