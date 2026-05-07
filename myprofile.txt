@@ -2,98 +2,48 @@ contact email : surekha.gm@gmail.com
 
 Work / Visa - Australian Citizen based in Brisbane. 
 
-Work experience : Over 20 years of experience delivering high-impact software solutions across Australia, New Zealand, the US, Canada, the UK, India, and Japan.  A strategic expert in bridging the gap between high-scale software engineering and product management or high -impact digital transformation for both private and public sector customers. Extensive experience in Software development, Quality Engineering, Test Automation, Customer Relations, Vendor Management, Program and Product Management, Technical Business Analysis, and End-to-End Product Delivery. I have held positions like head of quality engineering / head of products. Successfully led and delivered multi-million-dollar programs for clients across Banking, Financial Services, Criminal Justice, Emergency Services, Utilities, Transport, and Healthcare sectors. 
+Executive Profile/ Experience: 
+Global Digital Transformation Executive specialising in the intersection of technical excellence and strategic product management. With over two decades of international experience, I lead the delivery of high-impact software ecosystems for both public and private sector giants. My leadership extends beyond traditional boundaries, integrating Quality Engineering, Technical Business Analysis, and Product Management to ensure the integrity of multi-million-dollar portfolios. Having steered critical initiatives in highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation—I bring a disciplined, strategic approach to scaling operations and optimising vendor-client ecosystems.
+
+Executive Performance Summary / Achievements
+Large-Scale Portfolio Governance: Orchestrated Quality Strategy for high-stakes programs valued at $100M+, maintaining rigorous standards across 20 concurrent workstreams without compromising delivery speed.
+Operational Velocity & Efficiency: Engineered a transformation in release cadence, delivering 50+ major releases annually. Drastically optimised the software delivery pipeline by reducing regression cycles from 5 weeks to 5 days—a 400% increase in efficiency.
+Human Capital Development: Cultivated a culture of technical excellence by building and mentoring high-performing engineering divisions of up to 100 specialists. Directly spearheaded upskilling initiatives for 100+ engineers, aligning workforce capabilities with modern AI and automation trends.
+Strategic Automation & Coverage: Achieved a best-in-class 85% regression coverage, ensuring unparalleled system stability
 
 Education - Bachelor of Engineering in Electronics and Communications from Visvesvaraya Technological University, Belgaum, India
 
 Current position - Director at Department of Transport and Main roads, Queensland - from July 2024 to current
 
-Previous positions- Executive Manager - QA and Products, Senior Test Manager, Program QA Manager, Technical Lead, Senior Consultant , Software Engineer
+Previous positions- Executive Manager - QA and Products, Senior Manager, Program QA Manager, Technical Lead, Senior Consultant , Software Engineer
 
-Top skills- Strategic leadership, Digital and AI transformation, Head of Quality Assurance, Head of Product, Software Development, Customer Relations, Supplier Management, End to End Product Delivery
+Core competencies- Visionary AI & Digital Transformation, Head of Product & Quality Excellence, High-Stakes Stakeholder Relations, Scalable Engineering Management, Global Supplier & Vendor Governance
 
-
-I have been a part of some amazing projects across the globe for financial, banking, healthcare, emergency services, criminal justice, and transportation organisations.
-To name a few - ETL/ ELT/ Data Migration projects,  Integration projects to bring criminal data from multiple sources with MutiVue rendering, , Computer Aided Dispatch system and integrations, Modern Dispatch solutions (Android/ iOS) app with Android Auto, CarPlay integration, 
-Projects in Forward contracts , Options trading, Retail banking ,domains for major Financial and Capital market customers in Australia, North America, and Japan,  
-For further details, please refer to my resume. 
-
-
-Career Highlights
-Head of quality for programs worth over $100M
-Managed testing across 20 concurrent projects
-Successfully delivered over 100 projects for capital markets, banking, health care, emergency services, criminal justice, transportation domains
-Built and mentored high-performing QA teams of 10–100 specialists
-Trained and upskilled 100+ engineers
-Delivered 50 Major releases per year for large scale portfolios
-Reduced regression cycle time from 5 weeks to 5 days through automation 
-Highest regression coverage achieved 85%
-Led and delivered in house performance testing tool to generate user data, vehicle data and incident data for CAD system, saving millions of dollars for the company and customers.
-
-
-Google Cloud Certified Professional Data Engineer, Professional Machine Learning Engineer, Generative AI Leader
-Google Cloud Data Analytics certificate
-Google cloud computing certificate
-Langchain, LangGraph, LangSmith certified from Langchain Academy
-Certified Cyber Security Professional from ISC2
-Non- credited Specialisation in Machine Learning from Stanford University/ Coursera
-ISTQB certified 	
-Project Management Professional (PMP)
-Scrum Master Accredited from International Scrum Institute
-
+Project Portfolio / Projects / Career projects
+A proven track record of navigating the technical and regulatory complexities of highly sensitive sectors:
+Advanced Data Orchestration: Led end-to-end integration projects to consolidate sensitive criminal justice data, ensuring data integrity and sophisticated rendering through MultiVue systems.
+Global Financial Ecosystems: Optimised digital assets for major capital market players, managing the full product lifecycle for retail banking platforms and complex derivative trading systems (Options/Forwards) on an international scale.  
+Mission-Critical Mobility: Revolutionized emergency service workflows by deploying modern, integrated dispatch solutions that leverage cutting-edge vehicle-interface technologies (CarPlay/Android Auto).
 
 ********************************************************************************
-AI transformation
+AI project potfolio
 
-AI Projects - 
-Project 1- AI requirement analyser and test case generator RAG application using LLM, Langchain, LangGraph, Streamlit, ChromaDB to read and analyse requirements from Jira and create test cases for user stories. Implemented Human in the loop for test case approval to Jira, and refinement.
-Project 2 -Training video validator and Q&A chat bot– Streamlit application to summarise YouTube videos. Built using LLM, RAG+ Vector DB, LangGraph, Langchain. — fetching, flattening, and chunking live transcript data for department videos, then wiring it into a full LangChain retrieval chain enabling transcript summarisation useful for quick quality checks, and e-learning using YouTubeTranscriptAPI, FAISS vector store, HuggingFaceEmbeddings , and LangChain. This feature is being implemented at project level to embed in the UI using other paid LLM models and enterprise production grade infrastructure. 
-Project 3- Personal AI agent that summaries professional experience and provides a platform to ask questions about my skills and experience. Built using Streamlit, LLM, LangGraph, Langchain and hosted on Streamlit cloud.
-Project 4 - Parallel Multi-Agent Blog Writing Pipeline
-An agentic content generation system built with LangGraph that takes a topic and autonomously plans, researches, and writes a complete technical blog post — with multiple specialised agents working in parallel to produce each section simultaneously. Blog content saved as markdown file. 
-
-
-AI/ ML Skills & Technologies Summary
-Frameworks & Orchestration
-•	LangGraph — stateful agent graphs, conditional routing, parallel fan-out, human-in-the-loop, memory checkpointers
-•	LangChain — chains, retrievers, prompt templates, output parsers, tool binding
-•	LangSmith — tracing, observability, run metadata, project-level monitoring
-RAG & Vector Search
-•	FAISS / Chroma DB— vector indexing, similarity search, in-memory and persistent stores
-•	HuggingFace Embeddings — text embedding generation for semantic retrieval
-•	PyPDFLoader, YouTubeTranscriptAPI — diverse document ingestion pipelines
-•	TavilySearchResults — live web search for hybrid and open-book RAG
-LLM Integration
-•	HuggingFace Inference Endpoints — Qwen2.5-7B, GPT-OSS-20B
-•	Gemini API — multimodal image generation
-•	Structured output via Pydantic + json_schema method
-Memory & Persistence
-•	InMemorySaver, SqliteSaver, PostgresSaver — short-term conversational memory
-•	InMemoryStore, PostgresStore — long-term user memory with deduplication
-•	Token-aware context management with trim_messages
-MCP & Tool Integration
-•	langchain_mcp_adapters — multi-server MCP client
-•	FastMCP — local stdio MCP server
-•	streamable_http transport with bearer token auth
-•	DuckDuckGoSearchRun, Alpha Vantage API, Weather API
-UI & Product
-•	Streamlit — full-stack chatbot UI with session management, streaming, and sidebar navigation
-•	asyncio — async-first Python for concurrent tool calls and agent workflows
-•	Pydantic v2 — schema validation and structured LLM output contracts
-
-Hobbies : regular upskilling, travelling,running, hiking, gardening, poetry, reading , spending time with family
+Agentic Quality Intelligence Platform (Jira-Integrated RAG): Architected an enterprise-grade requirement analyser and test-design engine using LangChain, LangGraph, and ChromaDB. This RAG-based application automates the synthesis of Jira user stories into comprehensive test suites. By implementing Human-in-the-Loop (HITL) state management, the system ensures rigorous validation and refinement cycles, bridging the gap between probabilistic AI outputs and deterministic quality standards.
+Enterprise E-Learning & Video Intelligence Engine: Developed a high-scale Video transcription and Q&A ecosystem designed for rapid quality audits and corporate training. The solution leverages LangGraph for complex retrieval chains, Chroma for high-performance vector search, and HuggingFace Embeddings. Currently being scaled from a Streamlit prototype to a production-grade enterprise deployment, the system flattens and chunks live transcript data to enable instant summarization and semantic interrogation of vast video libraries.
+Parallel Multi-Agent Autonomous Content Pipeline: Engineered a sophisticated Agentic workflow that utilises parallel processing to automate technical content creation. Built with LangGraph, the system orchestrates multiple specialised agents (Researcher, Planner, Writer, Editor) to work in sync, autonomously transforming a single topic into a structured, publication-ready technical blog post. This project demonstrates mastery in Agentic Design Patterns and multi-node state machine orchestration.
+Conceptualized and deployed a personal AI Agent designed to serve as a high-fidelity interface for professional expertise. Built on LangChain and Streamlit Cloud, this agent utilizes a RAG architecture to provide instant, contextual insights into two decades of technical leadership, allowing stakeholders to query skills, projects, and strategic impact through a natural language interface
 
 
 ********************* 
-Certifications
-Google Cloud Certified Professional Data Engineer
-Google Cloud Certified Professional Machine Learning Engineer
-Google Cloud Certified Generative AI Leader
-Google Cloud Data Analytics certificate
-Google Cloud Computing Foundations Certificate
-Certified Cyber Security Professional from ISC2, 2024
-Non- credited Specialisation in Machine Learning from Stanford University/ Coursera
-Langchain, LangGraph, and LangSmith certified from LangChain academy
-ISTQB certified 03/2024, 24-CTFL 4-243019-12
-Project Management Professional (PMP) 02/2020, 2748582
-Scrum Master Accredited from International Scrum Institute, 10/2014
+Professional Credentials & Technical Certifications
+Professional Data Engineer | Google Cloud Certified
+Professional Machine Learning Engineer | Google Cloud Certified
+Generative AI Leader | Google Cloud Certified
+Specialisation in Machine Learning | Stanford University (Coursera)
+Expertise in Agentic Frameworks | Certified in LangChain, LangGraph, & LangSmith (LangChain Academy)
+Data Analytics Professional | Google Cloud Certified
+Project Management Professional (PMP)® | PMI (License 2748582)
+Certified Cybersecurity Professional | ISC2 (2024)
+Accredited Scrum Master | International Scrum Institute
+ISTQB Certified Tester | Foundation Level (CTFL 4.0)
+Cloud Computing Foundations | Google Cloud Certified

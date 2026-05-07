@@ -212,15 +212,14 @@ hr { border-color: rgba(99,179,237,0.1) !important; }
 PROFILE_PATH = os.path.join(os.path.dirname(__file__), "myprofile.txt")
 
 
-SUGGESTED_QUESTIONS = [
-    "What are your top skills?",
-    "Tell me about your work experience",
-    "What projects have you built?",
-    "What are your hobbies?",
-    "What is your email?",
-    "What is your education?",
-    "Tell me about your AI projects",
-    "Any Certifications?",
+SUGGESTED_TOPICS = [
+    "Core compentencies",
+    "Executive profile",
+    "Project portfolio",
+    "Contact details",
+    "Educational background",
+    "AI project potfolio",
+    "Professional Credentials & Technical Certifications",
 ]
 
 
@@ -268,8 +267,8 @@ st.markdown(
     color: #f6e05e;
     line-height: 1.6;
 ">
-    ⚠️ <strong>Disclaimer:</strong> I have been working on new projects and upskilling continuously — some information retrieved here may not reflect my latest experience. 
-    I'd love to <strong>chat with you directly</strong> to discuss my skills and achievements in detail! Model might hallucinate on general queries. 
+    ⚠️ <strong>Disclaimer:</strong> In an era of rapid technological upskilling, my experience is constantly expanding. To explore my most recent projects and validated credentials in detail, let’s connect for a direct conversation.
+    Please be advised that AI-generated responses are intended as a guide and should be verified through a personal briefing. 
 </div>
 """,
     unsafe_allow_html=True,
@@ -281,7 +280,7 @@ if "messages" not in st.session_state:
     st.session_state.messages.append(
         {
             "role": "assistant",
-            "content": f"Hey there! 👋 I'm an AI assistant that can help you with questions related to **{PERSONA_NAME}**. Ask me about her experience, skills, projects, or anything else you'd like to know!",
+            "content": f"Hey there! 👋 I'm an AI assistant designed to provide insights into the professional portfolio of **{PERSONA_NAME}**. Ask me about her experience, skills, and projects",
         }
     )
 
@@ -292,9 +291,9 @@ for msg in st.session_state.messages:
 # Suggestion chips (show only when no real conversation yet)
 
 with st.sidebar:
-    st.markdown("### 💡 Suggested Questions")
+    st.markdown("### 💡 Suggested Topics")
     st.markdown("---")
-    for i, q in enumerate(SUGGESTED_QUESTIONS):
+    for i, q in enumerate(SUGGESTED_TOPICS):
         if st.button(q, key=f"chip_{i}", use_container_width=True):
             st.session_state.pending_question = q
             st.rerun()
