@@ -30,7 +30,7 @@ Mission-Critical Mobility: Revolutionized emergency service workflows by deployi
 ********************************************************************************
 AI project portfolio 
 Agentic Quality Intelligence Platform (Jira RAG): LangChain/LangGraph engine that auto-transforms Jira user stories into test suites, with Human-in-the-Loop state management for enterprise-grade validation.
-Enterprise E-Learning & Video Intelligence: High-scale transcription and Q&A system using LangGraph and ChromaDB, enabling real-time summarization and semantic search across corporate video libraries.
+Enterprise E-Learning & Video Intelligence: High-scale transcription and Q&A system using LangGraph and ChromaDB, enabling real-time summarisation and semantic search across corporate video libraries.
 Professional Expertise AI Agent: RAG-based agent built on LangChain, letting stakeholders explore two decades of technical leadership through natural language conversation.
 
 
