@@ -1,9 +1,11 @@
 contact email : surekha.gm@gmail.com
 
-Work / Visa - Australian Citizen based in Brisbane. 
+work/visa status - Australian Citizen based in Brisbane. 
 
 Executive Profile/ Experience: 
 Global Digital Transformation Executive specialising in the intersection of technical excellence and strategic product management. With over two decades of international experience, I lead the delivery of high-impact software ecosystems for both public and private sector giants. My leadership extends beyond traditional boundaries, integrating Quality Engineering, Technical Business Analysis, and Product Management to ensure the integrity of multi-million-dollar portfolios. Having steered critical initiatives in highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation—I bring a disciplined, strategic approach to scaling operations and optimising vendor-client ecosystems.
+
+Global experience -highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation across Australia, NZ, India, the USA, the UK, Japan - 
 
 Executive Performance Summary / Achievements
 Large-Scale Portfolio Governance: Orchestrated Quality Strategy for high-stakes programs valued at $100M+, maintaining rigorous standards across 20 concurrent workstreams without compromising delivery speed.
@@ -26,12 +28,10 @@ Global Financial Ecosystems: Optimised digital assets for major capital market p
 Mission-Critical Mobility: Revolutionized emergency service workflows by deploying modern, integrated dispatch solutions that leverage cutting-edge vehicle-interface technologies (CarPlay/Android Auto).
 
 ********************************************************************************
-AI project potfolio
-
-Agentic Quality Intelligence Platform (Jira-Integrated RAG): Architected an enterprise-grade requirement analyser and test-design engine using LangChain, LangGraph, and ChromaDB. This RAG-based application automates the synthesis of Jira user stories into comprehensive test suites. By implementing Human-in-the-Loop (HITL) state management, the system ensures rigorous validation and refinement cycles, bridging the gap between probabilistic AI outputs and deterministic quality standards.
-Enterprise E-Learning & Video Intelligence Engine: Developed a high-scale Video transcription and Q&A ecosystem designed for rapid quality audits and corporate training. The solution leverages LangGraph for complex retrieval chains, Chroma for high-performance vector search, and HuggingFace Embeddings. Currently being scaled from a Streamlit prototype to a production-grade enterprise deployment, the system flattens and chunks live transcript data to enable instant summarization and semantic interrogation of vast video libraries.
-Parallel Multi-Agent Autonomous Content Pipeline: Engineered a sophisticated Agentic workflow that utilises parallel processing to automate technical content creation. Built with LangGraph, the system orchestrates multiple specialised agents (Researcher, Planner, Writer, Editor) to work in sync, autonomously transforming a single topic into a structured, publication-ready technical blog post. This project demonstrates mastery in Agentic Design Patterns and multi-node state machine orchestration.
-Conceptualized and deployed a personal AI Agent designed to serve as a high-fidelity interface for professional expertise. Built on LangChain and Streamlit Cloud, this agent utilizes a RAG architecture to provide instant, contextual insights into two decades of technical leadership, allowing stakeholders to query skills, projects, and strategic impact through a natural language interface
+AI project portfolio 
+Agentic Quality Intelligence Platform (Jira RAG): LangChain/LangGraph engine that auto-transforms Jira user stories into test suites, with Human-in-the-Loop state management for enterprise-grade validation.
+Enterprise E-Learning & Video Intelligence: High-scale transcription and Q&A system using LangGraph and ChromaDB, enabling real-time summarization and semantic search across corporate video libraries.
+Professional Expertise AI Agent: RAG-based agent built on LangChain, letting stakeholders explore two decades of technical leadership through natural language conversation.
 
 
 ********************* 

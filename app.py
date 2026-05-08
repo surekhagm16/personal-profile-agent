@@ -218,7 +218,7 @@ SUGGESTED_TOPICS = [
     "Project portfolio",
     "Contact details",
     "Educational background",
-    "AI project potfolio",
+    "AI project portfolio",
     "Professional Credentials & Technical Certifications",
 ]
 
