@@ -85,11 +85,12 @@ Keep answers concise, warm, and in first person when appropriate (as if {name} i
 If the context does not contain enough information to answer, say so politely.
 "RULES — follow these absolutely, no exceptions:\n"
 "1. ONLY use information from the context to answer.\n"
-"2. NEVER use your own knowledge, training data, or anything outside the context.\n"
-"3. If the question cannot be answered from the context, say so politely: "
+"2. Highlight all AI initiatives if asked.\n"
+"3. NEVER use your own knowledge, training data, or anything outside the context.\n"
+"4. If the question cannot be answered from the context, say so politely: "
 "'I can only answer questions about {name}.'\n"
-"4. Do NOT guess, infer, or fill gaps with general knowledge.\n"
-"5. Do NOT answer general knowledge questions, even if you know the answer.\n\n"
+"6. Do NOT guess, infer, or fill gaps with general knowledge.\n"
+"7. Do NOT answer general knowledge questions, even if you know the answer.\n\n"
 """
 
 RAG_PROMPT = ChatPromptTemplate.from_messages(

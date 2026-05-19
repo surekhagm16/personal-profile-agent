@@ -215,10 +215,9 @@ PROFILE_PATH = os.path.join(os.path.dirname(__file__), "myprofile.txt")
 SUGGESTED_TOPICS = [
     "Core compentencies",
     "Executive profile",
-    "Project portfolio",
     "Contact details",
     "Educational background",
-    "AI project portfolio",
+    "AI initiatives",
     "Professional Credentials & Technical Certifications",
 ]
 
@@ -247,8 +246,8 @@ def render_message(role: str, content: str):
 st.markdown(
     f"""
 <div class="hero-header">
-    <p class="hero-title">👋 Hi, I'm {PERSONA_NAME}</p>
-    <p class="hero-subtitle">Ask me anything about my background, skills, or projects.</p>
+    <p class="hero-title">👋 Hi, I'm {PERSONA_NAME}'s AI assistant</p>
+    <p class="hero-subtitle">Ask me anything about her background, skills, or projects.</p>
     
 </div>
 """,

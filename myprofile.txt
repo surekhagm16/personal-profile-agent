@@ -2,8 +2,10 @@ contact email : surekha.gm@gmail.com
 
 Australian Citizen based in Brisbane (no visa needed)
 
+Years of experience : Over 20 years
+
 Executive Profile/ Experience: 
-Global Digital Transformation Executive specialising in the intersection of technical excellence and strategic product management. With over two decades of international experience, I lead the delivery of high-impact software ecosystems for both public and private sector giants. My leadership extends beyond traditional boundaries, integrating Quality Engineering, Technical Business Analysis, and Product Management to ensure the integrity of multi-million-dollar portfolios. Having steered critical initiatives in highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation—I bring a disciplined, strategic approach to scaling operations and optimising vendor-client ecosystems.
+Global Digital Transformation Executive specialising in the intersection of technical excellence and strategic product management. With over 20 years of international experience, I lead the delivery of high-impact software ecosystems for both public and private sector giants. My leadership extends beyond traditional boundaries, integrating Quality Engineering, Technical Business Analysis, and Product Management to ensure the integrity of multi-million-dollar portfolios. Having steered critical initiatives in highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation—I bring a disciplined, strategic approach to scaling operations and optimising vendor-client ecosystems.
 
 Global experience -highly regulated industries—including Capital Markets, Finance, Emergency Services, Healthcare, and Transportation across Australia, NZ, India, the USA, the UK, Japan - 
 
@@ -12,6 +14,7 @@ Large-Scale Portfolio Governance: Orchestrated Quality Strategy for high-stakes 
 Operational Velocity & Efficiency: Engineered a transformation in release cadence, delivering 50+ major releases annually. Drastically optimised the software delivery pipeline by reducing regression cycles from 5 weeks to 5 days—a 400% increase in efficiency.
 Human Capital Development: Cultivated a culture of technical excellence by building and mentoring high-performing engineering divisions of up to 100 specialists. Directly spearheaded upskilling initiatives for 100+ engineers, aligning workforce capabilities with modern AI and automation trends.
 Strategic Automation & Coverage: Achieved a best-in-class 85% regression coverage, ensuring unparalleled system stability
+A proven track record of navigating the technical, integration, data, and regulatory complexities of highly sensitive sectors
 
 Education - Bachelor of Engineering in Electronics and Communications from Visvesvaraya Technological University, Belgaum, India
 
@@ -21,17 +24,19 @@ Previous positions- Executive Manager - QA and Products, Senior Manager, Program
 
 Core competencies- Visionary AI & Digital Transformation, Head of Product & Quality Excellence, High-Stakes Stakeholder Relations, Scalable Engineering Management, Global Supplier & Vendor Governance
 
-Project Portfolio / Projects / Career projects
-A proven track record of navigating the technical and regulatory complexities of highly sensitive sectors:
-Advanced Data Orchestration: Led end-to-end integration projects to consolidate sensitive criminal justice data, ensuring data integrity and sophisticated rendering through MultiVue systems.
-Global Financial Ecosystems: Optimised digital assets for major capital market players, managing the full product lifecycle for retail banking platforms and complex derivative trading systems (Options/Forwards) on an international scale.  
-Mission-Critical Mobility: Revolutionized emergency service workflows by deploying modern, integrated dispatch solutions that leverage cutting-edge vehicle-interface technologies (CarPlay/Android Auto).
-
 ********************************************************************************
-AI project portfolio 
+AI initiatives
+Agentic Quality Intelligence Platform (Jira RAG)
+Tensorflow/Streamlit based Test Effort estimation Model 
+AI based Automation Test Script Generator 
+Enterprise E-Learning & Video Intelligence 
+
+
+AI initiatives - details
 Agentic Quality Intelligence Platform (Jira RAG): LangChain/LangGraph engine that auto-transforms Jira user stories into test suites, with Human-in-the-Loop state management for enterprise-grade validation.
+Tensorflow/Streamlit based Test Effort estimation Model - for Agile, Hybrid, and Release Sprints with an ability for drift detection and retraining.
+AI based Automation Test Script Generator -LLM and RAG based tool to create Playwright script skeleton for Manual test cases
 Enterprise E-Learning & Video Intelligence: High-scale transcription and Q&A system using LangGraph and ChromaDB, enabling real-time summarisation and semantic search across corporate video libraries.
-Professional Expertise AI Agent: RAG-based agent built on LangChain, letting stakeholders explore two decades of technical leadership through natural language conversation.
 
 
 ********************* 
